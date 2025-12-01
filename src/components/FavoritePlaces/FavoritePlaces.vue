@@ -1,7 +1,7 @@
 <script setup>
 import FavoritePlace from '../FavoritePlace/FavoritePlace.vue'
 import IButton from '../IButton/IButton.vue'
-import { ref, reactive } from 'vue'
+import { ref } from 'vue'
 
 const buttonVariant = ref('gradient')
 
