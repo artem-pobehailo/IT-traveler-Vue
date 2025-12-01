@@ -13,7 +13,7 @@ import IButton from '../components/IButton/IButton.vue'
           відмічати твої улюблені місця, а також ті, в яких би ти дуже <br />
           хотів побувати. Тож не зволікай і спробуй сам.
         </p>
-        <IButton></IButton>
+        <IButton>Почати роботу</IButton>
         <div class="flex mt-8">
           <p>У вас ще немає аккаунту?</p>
           <p>Зареєструватися або увійти</p>
